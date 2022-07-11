@@ -1,1 +1,0 @@
-enabled wq_power_efficient_default
